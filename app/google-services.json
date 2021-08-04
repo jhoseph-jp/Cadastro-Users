@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991687782706",
+    "project_id": "cadastro-users-b6f62",
+    "storage_bucket": "cadastro-users-b6f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991687782706:android:e565b4e8745134c28ba72b",
+        "android_client_info": {
+          "package_name": "com.example.cadastrousers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991687782706-da8126q517d47mvm3esu0fmveoom5foh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqYbNn88ZxBDftqpoJ2p2IPCu1T0sMH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991687782706-da8126q517d47mvm3esu0fmveoom5foh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
